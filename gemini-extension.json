@@ -1,0 +1,8 @@
+{
+  "name": "fotofoto",
+  "version": "2.0.0",
+  "description": "Turn your photos or a public iCloud Shared Album into a printed hardcover photo book.",
+  "mcpServers": {
+    "fotofoto": { "httpUrl": "https://fotofoto.app/mcp" }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.fotofoto/photo-book",
+  "title": "foto foto",
+  "description": "Turn your photos or a public iCloud Shared Album into a printed hardcover photo book.",
+  "version": "2.0.0",
+  "websiteUrl": "https://fotofoto.app/developers",
+  "icons": [
+    { "src": "https://fotofoto.app/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+  ],
+  "remotes": [{ "type": "streamable-http", "url": "https://fotofoto.app/mcp" }]
+}
