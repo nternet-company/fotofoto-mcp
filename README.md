@@ -10,6 +10,7 @@ foto foto works in English and Dutch.
 
 - **Endpoint:** `https://fotofoto.app/mcp` (Streamable HTTP)
 - **Auth:** none. Book creation is free and needs no account or API key. Each book returns a private `bookToken` that only opens that book.
+- **Official MCP Registry:** `app.fotofoto/photo-book`
 - **Docs:** [fotofoto.app/developers](https://fotofoto.app/developers) · [connectors.md](https://fotofoto.app/connectors.md) · [server card](https://fotofoto.app/.well-known/mcp/server-card.json)
 
 ## Tools
